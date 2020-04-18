@@ -1,2 +1,2 @@
-# study-station-v2
-Study Station V2
+# Study Station V2
+Study Station version 2
